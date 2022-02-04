@@ -82,9 +82,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 
 ### 1.     Preparation 
 
-* Fork and clone the repository to your computer 
-
-* Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). It contains the following files: 
+Fork and clone the repository to your computer. Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). It contains the following files: 
 
 <details>
 <summary>Preparations</summary>

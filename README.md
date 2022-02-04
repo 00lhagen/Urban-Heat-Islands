@@ -88,7 +88,8 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 
 <details>
 <summary>stadtteile.shp</summary>
-<br/> klappt das endlich
+<br/> 
+	klappt das endlich
 	
 </details>
 
@@ -100,8 +101,13 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 	* Vorbereitung.sh 
 
 	* Gebaeudedichte.sh 
-
-	* LST.sh 
+<details>
+	<summary>LST</summary>
+<br/>
+	1. Landsat8 B10 image
+	2. LST.sh
+	3. Klassen.txt
+</details>
 
 	* Land_Cover.sh 
 

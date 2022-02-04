@@ -133,9 +133,15 @@ It contains the following files:
 	<summary>Results</summary>
 <br/>	
 	
-	* Result.sh 
+	* LST_HD.tif
 	
-	*
+	* LST_HD_reclass
+	
+	* Land_cover_HD.tif
+	
+	* LC_HD_reclass
+	
+	* Result.sh 
 
 </details>	
   

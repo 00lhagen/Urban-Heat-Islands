@@ -104,6 +104,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 <details>
 	<summary>LST</summary>
 <br/>
+	
 	1. Landsat8 B10 image
 	
 	2. LST.sh

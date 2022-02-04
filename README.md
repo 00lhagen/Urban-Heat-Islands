@@ -100,9 +100,9 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 	<summary>Building density</summary>
 <br/>
 	
-	* Gebaeudedichte.sh
-	
 	* Gebaeude.shp
+	
+	* Gebaeudedichte.sh 
 	
 	* Klassen_Gebaeudedichte.txt
 </details>

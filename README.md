@@ -110,17 +110,31 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 	<summary>LST</summary>
 <br/>
 	
-	* Landsat8 B10 image
+	* Landsat8_B10_LST.tif
 	
 	* LST.sh
 	
 	* reclass_LST.txt
 </details>
 
-	* Land_Cover.sh 
+<details>
+	<summary>Land Cover</summary>
+<br/>
+	* Land_Cover_DE_2015.tif
+	
+	* Land_Cover.sh
+	
+	* reclass_LC.txt
+</details>
 
+<details>
+	<summary>Results</summary>
+<br/>	
 	* Result.sh 
+	
+	*
 
+</details>	
   
 
 ### 2.     Run the scripts

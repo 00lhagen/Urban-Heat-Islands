@@ -92,24 +92,29 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 	klappt das endlich
 	
 </details>
-
-
-	* Gebaeude.shp 
-
-	* Klassen_Gebaeudedichte.txt
+ 
 
 	* Vorbereitung.sh 
+<details>
+	<summary>Building density</summary>
+<br/>
+	
+	* Gebaeudedichte.sh
+	
+	* Gebaeude.shp
+	
+	* Klassen_Gebaeudedichte.txt
+</details>
 
-	* Gebaeudedichte.sh 
 <details>
 	<summary>LST</summary>
 <br/>
 	
-	1. Landsat8 B10 image
+	* Landsat8 B10 image
 	
-	2. LST.sh
+	* LST.sh
 	
-	3. Klassen.txt
+	* reclass_LST.txt
 </details>
 
 	* Land_Cover.sh 

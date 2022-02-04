@@ -88,8 +88,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 
 <details>
 <summary>stadtteile.shp<summary> 
-<br/>	
-klappt das endlich
+<br/> klappt das endlich
 </details>
 
 

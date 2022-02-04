@@ -26,11 +26,11 @@ Download the OSGeo4W Installer from here and run the installer (choose advanced 
 
 Select at “Choose packages” under the section “Desktop” the following packages for installation  
 
-		qgis: QGis Desktop (3.22) 
+		qgis: QGis Desktop  
 
-		grass: GRASS GIS (7.8.6-8) 
+		grass: GRASS GIS 
 
-		saga: SAGA (7.8.2-14)  
+		saga: SAGA   
 
 You can see the selected packages for the installation if you click on the column “New”  
 

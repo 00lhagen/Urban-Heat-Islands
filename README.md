@@ -86,6 +86,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 
 * Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). It contains the following files: 
 
+<details>
 <br/>	
 	* stadtteile.shp 
 klappt das endlich

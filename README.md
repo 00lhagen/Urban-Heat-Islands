@@ -22,7 +22,7 @@ Until today we only implemented three aspects: The Land Surface Temperature, the
 
 **Windows:** 
 
-Download the OSGeo4W Installer from here and run the installer (choose advanced intall and keep the default values) 
+Download the OSGeo4W Installer from [here](https://trac.osgeo.org/osgeo4w/) and run the installer (choose advanced intall and keep the default values) 
 
 Select at “Choose packages” under the section “Desktop” the following packages for installation  
 
@@ -44,7 +44,7 @@ Complete the intallation
 
 **MacOS:**  
 
-Intall the latest release or long term release version of QGis on your computer.  
+Intall the latest release or long term release version of [QGis](https://www.qgis.org/de/site/forusers/download.html) on your computer.  
 
 Make sure that the path to the GRASS7 folder is set, by going in the menu under prosessing. 
 

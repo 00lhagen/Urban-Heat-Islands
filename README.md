@@ -36,7 +36,7 @@ You can see the selected packages for the installation if you click on the colum
 
 Under the section “Libs” select 
 
-		qgis-grass-plugin: Grass plugin for Qgis (3.22.3-1) 
+		qgis-grass-plugin: Grass plugin for QGis  
 
 Complete the intallation 
 

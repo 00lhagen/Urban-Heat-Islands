@@ -87,14 +87,15 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 * Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). It contains the following files: 
 
 <details>
-<summary>stadtteile.shp</summary>
+<summary>Preparations</summary>
 <br/> 
-	klappt das endlich
+	
+	* stadtteile.shp
+	
+	* Vorbereitung.sh 
 	
 </details>
  
-
-	* Vorbereitung.sh 
 <details>
 	<summary>Building density</summary>
 <br/>
@@ -110,7 +111,6 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 	<summary>LST</summary>
 <br/>
 	
-	
 	* Landsat8_B10_LST.tif
 	
 	* LST.sh
@@ -121,6 +121,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 <details>
 	<summary>Land Cover</summary>
 <br/>
+	
 	* Land_Cover_DE_2015.tif
 	
 	* Land_Cover.sh
@@ -131,6 +132,7 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 <details>
 	<summary>Results</summary>
 <br/>	
+	
 	* Result.sh 
 	
 	*

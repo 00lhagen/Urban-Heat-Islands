@@ -59,11 +59,13 @@ export PATH=/Applications/QGIS-LTR.app/Contents/MacOS/bin:$PATH
 
 **Linux:** 
 
-Please follow the instructions of the QGIS documentation. Make sure to install both QGIS3.16 (qgis) and the QGIS GRASS plugin (qgis-plugin-grass).  
+Please follow the instructions of the QGIS documentation. Make sure to install both QGIS (qgis) and the QGIS GRASS plugin (qgis-plugin-grass).  
 
  
 **We have used:** 
+
 QGis version 3.16
+
 GRASS GIS version 7.8.6
 
  
@@ -84,7 +86,12 @@ How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (
 
 * Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). It contains the following files: 
 
+<br/>	
 	* stadtteile.shp 
+klappt das endlich
+</details>
+
+<details>
 
 	* Gebaeude.shp 
 

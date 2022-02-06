@@ -40,8 +40,6 @@ Under the section “Libs” select
 
 Complete the intallation 
 
- 
- 
 
 **MacOS:**  
 
@@ -64,7 +62,10 @@ export PATH=/Applications/QGIS-LTR.app/Contents/MacOS/bin:$PATH
 
 Please follow the instructions of the QGIS documentation. Make sure to install both QGIS (qgis) and the QGIS GRASS plugin (qgis-plugin-grass).  
 
- 
+**Texteditor:**
+
+To run the scripts you also need a Texteditor f.e. Atom or Visual Studio Code
+
 **We have used:** 
 
 QGis version 3.16
@@ -85,7 +86,7 @@ How to run the program? -> Create a GRASS Gis location (Heidelberg) & Mapset (ge
 
 ### 1.     Preparation 
 
-Fork and clone the repository to your computer. Download the [data](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). 
+Download the data from the [heiBOX](https://heibox.uni-heidelberg.de/d/bc815a4d7cdb4a23bc25/). 
 
 It contains the following files: 
 

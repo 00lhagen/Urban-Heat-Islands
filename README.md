@@ -72,11 +72,11 @@ GRASS GIS version 7.8.6
 
 ## Executing program
 
-Modications needed to be made to files/folders? -> Erstellung Ordnerstruktur als Empfehlung (Berechnung UHI -> Vorbereitung, Gebaeudedichte, LST, LC, Result) 
+Modications needed to be made to files/folders? -> We would recommend you a file structure like this or simmilat to this one (Calculation UHI -> Vorbereitung, Gebaeudedichte, LST, LC, Result) 
 
   
 
-How to run the program? -> Erstellung GRASS Gis location (Heidelberg) & Mapset (gewünschter Stadtteil) in Ordner Berechnung UHI 
+How to run the program? -> Create a GRASS Gis location (Heidelberg) & Mapset (gewünschter Stadtteil) in the UHI folder 
 
   
 
@@ -132,14 +132,6 @@ It contains the following files:
 <details>
 	<summary>Results</summary>
 <br/>	
-	
-	* LST_HD.tif
-	
-	* LST_HD_reclass
-	
-	* Land_cover_HD.tif
-	
-	* LC_HD_reclass
 	
 	* Result.sh 
 

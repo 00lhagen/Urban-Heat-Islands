@@ -41,6 +41,7 @@ Under the section “Libs” select
 Complete the intallation 
 
  
+ 
 
 **MacOS:**  
 
@@ -56,6 +57,8 @@ export PATH=/Applications/QGIS-LTR.app/Contents/MacOS/bin:$PATH
 ```
  
  The MacOS users also need to install GRASS Gis additionally from [here](https://grass.osgeo.org/download/mac/).  
+
+
 
 **Linux:** 
 

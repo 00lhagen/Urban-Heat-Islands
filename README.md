@@ -143,6 +143,8 @@ It contains the following files:
 
 ### 2.     Run the scripts
 
+*Due to the calculation time of the Urban Heat Islands for the whole city of Heidelberg we decided to provide the scripts for the calculation of one district. You can choose the district freely and have to define it at the beginning of each script.*
+
 a.     Run first script (Vorbereitung.sh in the GRASS GIS Commandline) 
 
 ```bash 

@@ -76,9 +76,11 @@ GRASS GIS version 7.8.6
 
 ## Executing program
 
-Modications needed to be made to files/folders? -> We would recommend you a file structure like this or simmilar to this one (Calculation UHI -> Vorbereitung, Gebaeudedichte, LST, LC, Result) 
+For smooth running of the scripts we recommend the following folder structure: 
 
-  
+![Folder structure](https://heibox.uni-heidelberg.de/smart-link/6042f024-cfac-4a77-b84a-21bad5e0974d/)
+
+In the respective folders should be placed in each case (with the exception of the scripts) the associated data - for example: the respective source file and txt.file. 
 
 Before you start, you also need to create a new GRASS-Location in your folder. Therefore you start GRASS Gis, search for your folder and create a new location, which you may name Heidelberg. As EPSG Code you set "25832". After you created the new location, you also have to create a new GRASS Mapset, which you give the name of the city district, you want to make the calculation with.  
 
@@ -165,7 +167,9 @@ e.     Run fifth script (Result.sh in the normal Commandline)
 
 ### 3. Coloring and illustration of the result with QGis 
 
-  
+For illustrating the results we recommend the use of QGis, as map design is easier to implement here. 
+Your result may look like this: 
+![Result](https://heibox.uni-heidelberg.de/smart-link/2ad6e8bb-5c8d-44a1-8857-46440a03caf3/)
 
 ## Help 
 

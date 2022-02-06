@@ -168,7 +168,7 @@ e.     Run fifth script (Result.sh in the normal Commandline)
 ### 3. Coloring and illustration of the result with QGis 
 
 For illustrating the results we recommend the use of QGis, as map design is easier to implement here. 
-Your result may look like this: 
+Your result for the district of Rohrbach may look like this: 
 
 <a href="https://ibb.co/9cMd3Gy"><img src="https://i.ibb.co/FmPdqn8/example-Result.png" alt="example-Result" border="0"></a>
 

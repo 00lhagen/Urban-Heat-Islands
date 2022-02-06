@@ -30,7 +30,7 @@ Select at “Choose packages” under the section “Desktop” the following pa
 
 		grass: GRASS GIS 
 
-		saga: SAGA   
+		saga: SAGA (we woan't use it, but can't hurt for the future)   
 
 You can see the selected packages for the installation if you click on the column “New”  
 

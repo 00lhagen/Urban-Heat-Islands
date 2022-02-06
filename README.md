@@ -78,7 +78,7 @@ GRASS GIS version 7.8.6
 
 For smooth running of the scripts we recommend the following folder structure: 
 
-![Folder structure](<a href="https://ibb.co/DG1tkVc"><img src="https://i.ibb.co/gvr3wjq/Ordnerstruktur.png" alt="Ordnerstruktur" border="0"></a>)
+<a href="https://ibb.co/DG1tkVc"><img src="https://i.ibb.co/gvr3wjq/Ordnerstruktur.png" alt="Ordnerstruktur" border="0"></a>
 
 In the respective folders should be placed in each case (with the exception of the scripts) the associated data - for example: the respective source file and txt.file. 
 

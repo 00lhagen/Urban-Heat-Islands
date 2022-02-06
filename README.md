@@ -18,7 +18,7 @@ Until today we only implemented three aspects: The Land Surface Temperature, the
   
 ## Getting Started
 
-### Installing 
+### Installing the needed software
 
 **Windows:** 
 

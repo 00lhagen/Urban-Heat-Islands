@@ -75,7 +75,7 @@ GRASS GIS version 7.8.6
 
 ## Executing program
 
-Modications needed to be made to files/folders? -> We would recommend you a file structure like this or simmilat to this one (Calculation UHI -> Vorbereitung, Gebaeudedichte, LST, LC, Result) 
+Modications needed to be made to files/folders? -> We would recommend you a file structure like this or simmilar to this one (Calculation UHI -> Vorbereitung, Gebaeudedichte, LST, LC, Result) 
 
   
 

@@ -64,7 +64,7 @@ Please follow the instructions of the QGIS documentation. Make sure to install b
 
 **Texteditor:**
 
-To run the scripts you also need a Texteditor f.e. Atom or Visual Studio Code
+To run the scripts you also need a Texteditor f.e. Atom or Visual Studio Code.
 
 **We have used:** 
 

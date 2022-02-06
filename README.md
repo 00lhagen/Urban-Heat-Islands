@@ -80,7 +80,7 @@ Modications needed to be made to files/folders? -> We would recommend you a file
 
   
 
-How to run the program? -> Create a GRASS Gis location (Heidelberg) & Mapset (gewünschter Stadtteil) in the UHI folder 
+Before you start, you also need to create a new GRASS-Location in your folder. Therefore you start GRASS Gis, search for your folder and create a new location, which you may name Heidelberg. As EPSG Code you set "25832". After you created the new location, you also have to create a new GRASS Mapset, which you give the name of the city district, you want to make the calculation with.  
 
   
 

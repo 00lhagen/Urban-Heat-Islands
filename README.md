@@ -78,7 +78,7 @@ GRASS GIS version 7.8.6
 
 For smooth running of the scripts we recommend the following folder structure: 
 
-![Folder structure](https://heibox.uni-heidelberg.de/smart-link/6042f024-cfac-4a77-b84a-21bad5e0974d/)
+![Folder structure](<a href="https://ibb.co/DG1tkVc"><img src="https://i.ibb.co/gvr3wjq/Ordnerstruktur.png" alt="Ordnerstruktur" border="0"></a>)
 
 In the respective folders should be placed in each case (with the exception of the scripts) the associated data - for example: the respective source file and txt.file. 
 
@@ -169,7 +169,8 @@ e.     Run fifth script (Result.sh in the normal Commandline)
 
 For illustrating the results we recommend the use of QGis, as map design is easier to implement here. 
 Your result may look like this: 
-![Result](https://heibox.uni-heidelberg.de/smart-link/2ad6e8bb-5c8d-44a1-8857-46440a03caf3/)
+
+![Result](<a href="https://ibb.co/9cMd3Gy"><img src="https://i.ibb.co/FmPdqn8/example-Result.png" alt="example-Result" border="0"></a>)
 
 ## Help 
 
